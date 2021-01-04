@@ -25,3 +25,5 @@ gastown.name = "Gastown"
 gastown.mens_apparel = true
 gastown.womens_apparel = false
 gastown.save
+
+puts Store.count
